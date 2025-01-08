@@ -1,5 +1,12 @@
+My forth task as an intern at Prodigy InfoTech.
 
+Task Title: Simple Keylogger
 
+Task Description: Create a basic keylogger program that records and logs keystrokes. Focus on logging the keys pressed and saving them to a file. Note: Ethical considerations and permissions are crucial for projects involving keyloggers.
+
+Prerequisite: Python 3.x: If you don't have Python installed yet, you can download it from python.org.
+
+Installation: Clone or download this repository, compile and run the program.
 
 Key Features:
 1.	Logging Keystrokes: Captures all keystrokes, including alphanumeric characters, spaces, and special keys.
