@@ -1,4 +1,4 @@
-My forth task as an intern at Prodigy InfoTech.
+My fourth task as an intern at Prodigy InfoTech.
 
 Task Title: Simple Keylogger
 
